@@ -6,7 +6,7 @@ public class Employee {
     private int age;
     private int employeeNumber;
 
-
+// All agrs constructor
     public Employee(String firstName, String lastName, int age, int employeeNumber) {
         this.firstName = firstName;
         this.lastName = lastName;
