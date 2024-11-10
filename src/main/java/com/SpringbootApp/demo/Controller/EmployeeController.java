@@ -8,6 +8,6 @@ public class EmployeeController {
     // This is a controller class
     @GetMapping(value = "hello")
     public String sayHi(){
-        return "Welcome to Nepal";
+        return "Welcome to Kathmandu";
     }
 }
