@@ -8,7 +8,7 @@ public class DemoApplication {
 // This is a Springboot main class
 	public static void main(String[] args) {
 		//This is a main class
-		// This is a Springboot App with Rest API
+		//This application follows a MVC model
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
